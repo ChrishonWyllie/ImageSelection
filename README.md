@@ -16,8 +16,8 @@ UIAlertController - to give the user options when the UIImageView is tapped
 
 
 <img src="HomeScreen.png" width="400px;" height="650px;" />
-<img src="OptionsPresented" width="400px;" height="650px;" />
+<img src="OptionsPresented.png" width="400px;" height="650px;" />
 <img src="AccessProvided.png" width="400px;" height="650px;" />
 <img src="PhotoLibraryShown.png" width="400px;" height="650px;" />
 <img src="ImageChosen.png" width="400px;" height="650px;" />
-img src="FinalResult.png" width="400px;" height="650px;" />
+<img src="FinalResult.png" width="400px;" height="650px;" />
